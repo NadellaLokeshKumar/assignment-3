@@ -1,0 +1,10 @@
+bp_data=C:\\Users\\Lokesh Kumar Nadella\\Documents\\bp_data.xlsx
+URL=jdbc:mysql://localhost:3306/assignment3
+protocall=jdbc
+sub_protocall=mysql
+domain_name=localhost
+port_number=3306
+database_name=assignment
+table_name=business_partner
+username=root
+password=root
